@@ -5,13 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahsudbekyuldoshev" alt="mahsudbekyuldoshev" /></a> </p>
 
-- 🔭 ERP & POS System for retail stores [https://github.com/votiischeznu/EduMrX](https://github.com/votiischeznu/EduMrX)
-
 - 🌱Advanced Django, Docker, and System Architecture **Django, DRF, Redis, Docker**
-
-- 👯 Open source Python and Django projects [https://github.com/mrAkbarov/muhandis_pos_backend](https://github.com/mrAkbarov/muhandis_pos_backend)
-
-- 🤝 I’m looking for help with [https://github.com/mrAkbarov/muhandis_pos_frontend](https://github.com/mrAkbarov/muhandis_pos_frontend)
 
 - 👨‍💻 All of my projects are available at [https://github.com/mahsudbekyuldoshev](https://github.com/mahsudbekyuldoshev)
 
