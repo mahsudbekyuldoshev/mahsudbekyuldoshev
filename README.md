@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahsudbekyuldoshev&label=Profile%20views&color=0e75b6&style=flat" alt="mahsudbekyuldoshev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahsudbekyuldoshev" alt="mahsudbekyuldoshev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahsudbekyuldoshev" alt="" /></a> </p>
 
 - 🌱Advanced Django, Docker, and System Architecture: **Django, DRF, Redis, Docker**
   
