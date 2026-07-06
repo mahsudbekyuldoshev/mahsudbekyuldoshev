@@ -5,11 +5,22 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahsudbekyuldoshev" alt="mahsudbekyuldoshev" /></a> </p>
 
-- 🌱Advanced Django, Docker, and System Architecture **Django, DRF, Redis, Docker**
+- 🌱Advanced Django, Docker, and System Architecture: **Django, DRF, Redis, Docker**
+  
+- 🔭 ERP & POS System for retail stores
+  
+- 👯 Open source Python and Django projects
+
+- 🤝 I’m looking for help with
+
+- 💬 Python, Django, Database Design, and API Development
+
+- ⚡ I'm a backend developer who loves building scalable and clean code structures. **I solve problems you didn't know you had, in ways you don't understand**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mahsudbekyuldoshev](https://github.com/mahsudbekyuldoshev)
 
-- 📫 mahsudbekyuldoshev09@gmail.com **mahsudbekyuldoshev09@gmail.com**
+- 📫 **mahsudbekyuldoshev09@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
